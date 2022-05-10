@@ -40,6 +40,7 @@ struct CoinDetails: View {
         .padding()
         .frame(width: UIScreen.main.bounds.width - 20, height: 250)
         .background(.white)
+        .cornerRadius(20)
     }
 }
 
