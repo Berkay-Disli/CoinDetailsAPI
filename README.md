@@ -19,7 +19,7 @@ In addition to that, a small popup view is presented when a coin from the list i
 
 
 <p align="middle">
-  <img src="images/showcase.png" width=30% height=30%>
+  <img src="images/showcase.png" width=70% height=70%>
 </p>
 
 
